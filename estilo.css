@@ -1,0 +1,9 @@
+body{
+ padding: 15px;
+}
+.joker{
+    background-image: url(imagen/joker.jpeg);
+}
+.batman{
+    background-image: url(imagen/Batman-7.jpg) important;
+}
